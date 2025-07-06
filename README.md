@@ -6,6 +6,7 @@ Duration: 10 June 2025 to 10 July 2025
 Domain : Python Programmig 
 Overview of the project
 **Project: Hangman Game – A Text-Based Word Guessing Game in Python**
+![image alt](https://github.com/Priyanshi19-ba/CodeAlpha-task1/blob/a4d6c1ee60c9e5bd3f323dd1105f8e6bbfa74bcc/Screenshot%202025-07-06%20180959.png)
 
 **Objective**:The objective of this project is to create a simple text-based Hangman game where the player guesses a hidden word one letter at a time. The game uses a small list of 5 predefined words, and the player is allowed a maximum of 6 incorrect guesses. This project is designed to help practice and apply basic programming concepts such as random selection, while loops, if-else statements, strings, and lists.
 
